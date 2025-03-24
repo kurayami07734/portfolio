@@ -1,6 +1,8 @@
 <template>
   <v-app>
-    <v-main> </v-main>
+    <v-main>
+      <TopBar />
+    </v-main>
   </v-app>
 </template>
 
